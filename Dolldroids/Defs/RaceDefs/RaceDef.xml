@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<AlienRace.ThingDef_AlienRace ParentName="HumanRace">
+    <defname>CS_Dolldroid</defname>
+    <label>dolldroid</label>
+    <description>An artificial person modelled on traditional ball-jointed dolls.</description>
+
+    <alienRace>
+			<generalSettings></generalSettings>
+			<graphicPaths></graphicPaths>
+			<styleSettings></styleSettings>
+			<thoughtSettings></thoughtSettings>
+			<relationSettings></relationSettings>
+			<raceRestriction></raceRestriction>
+			<compatibility></compatibility>
+		</alienRace>
+</AlienRace.ThingDef_AlienRace>
+</Defs>
