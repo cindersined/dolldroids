@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Dolldroids</name>
+  <author>cindersinned</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>cindersinned.dolldroids</packageId>
+  <url>https://github.com/erdelf/AlienRaces/wiki</url>
+  <description>
+Dolldroids race test
+  </description>
+</ModMetaData>
